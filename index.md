@@ -6,3 +6,7 @@
 ``` java
 String myVar = "Hello";
 ```
+
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
